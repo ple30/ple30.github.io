@@ -3,7 +3,7 @@ title: "Enhancing Assessment of Self-Consistency in LLM Explanations using Pertu
 collection: publications
 category: conferences
 permalink: /publication/2026-11-15-enhancing-self-consistency-check 
-excerpt: ''
+excerpt: 'Enhanced self-consistency checks in LLM Explanations by developing a perturbation strength measure'
 date: 2026-11-15
 venue: 'Proceedings of the 24th Annual Workshop of the Australasian Language Technology Association (ALTA 2026)'
 paperurl: 'https://doi.org/10.48550/arXiv.2609.30849'
