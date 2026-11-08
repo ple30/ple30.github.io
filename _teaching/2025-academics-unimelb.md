@@ -3,7 +3,7 @@ title: "Casual Academics"
 collection: teaching
 type: "Undergraduate subjects"
 permalink: /teaching/2025-academics-unimelb
-venue: "School of Mathematics and Statistics, University of Melbourne"
+venue: "School of Mathematics and Statistics, The University of Melbourne"
 date: 2025-02-01
 location: "City, Country"
 ---
