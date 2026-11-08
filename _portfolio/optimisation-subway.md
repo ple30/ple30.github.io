@@ -1,12 +1,12 @@
 ---
-title: "Self-Consistency in LLM-generated Explanations"
-excerpt: "Enhanced self-consistency checks in LLM Explanations by developing a perturbation strength measure<br/><img src='/images/self-consistency-thumbnail.jpg'>"
+title: "Optimisation for Industry Group Project (Subway)"
+excerpt: "Unimelb MAST90014: Developing Mixed-Interger-Programming (MIP) models to solve for the optimal ingredient stocking of Subway and in general settings."
 collection: portfolio
-date: 2026-11-09
+date: 2026-05-30
 ---
-- Conducted large-scale experiments on HPC infrastructure comparing the behaviour of 4 LLMs under input vs. Chain-of-Thought perturbations across 4 multi-hop QA datasets
-- Proposed a perturbation strength measure using an LLM-as-judge approach, achieving strong correlations (>0.86) with human-annotated strengths
-- Identified more than 50% of perturbations in existing datasets exhibiting low perturbation strength, revealing limitations in current perturbation-based assessment of self-consistency
+- Formulated 2 Mixed-Interger-Programming models for Subway's delivery scheduling and inventory stocking, incorporating demand forecasting, capacity constraints and product expiration tracking to minimise waste and prevent expired inventory
+- Generalised the model to handle multi-supplier restaurants and temporary delivery constraints by incorporating shortage decisions
+- Enhanced the model by identifying and eliminating redundant variables, reducing hundreds of variables
+and improving computational efficiency
 
-- [**Code**](https://github.com/ple30/enhance-self-consistency-check.git)
-- [**Paper**](https://doi.org/10.48550/arXiv.2609.30849)
+- [**Code**](https://github.com/ple30/optimal-product-stocking.git)
