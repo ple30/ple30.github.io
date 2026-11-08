@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "International Baccalaureate (IB) Tutor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "IB Diploma Programme (IBDP)"
+permalink: /teaching/2021-ib-tutor-1
+venue: "Bright Vision, Ho Chi Minh City (remote)"
 date: 2014-01-01
 location: "City, Country"
 ---
