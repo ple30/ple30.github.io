@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "International Baccalaureate (IB) Tutor"
 collection: teaching
-type: "Workshop"
+type: "IB Diploma Programme (IBDP)"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Super Tutors, Melbourne"
+date: 2023-10-01
 location: "City, Country"
 ---
+Subjects taught: IB Mathematics SL and HL, IB Physics SL and HL, Year 7-10 Mathematics
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Delivered 4 hours of one-on-one and group (up to 3) tutoring lessons weekly in IB Mathematics, Physics and Year 7-10 Mathematics, helped students achieve 10-20% grade improvement
+- Prepared teaching materials for 4 one-on-one sessions in IB Physics
