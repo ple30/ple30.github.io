@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Self-Consistency in LLM-generated Explanations"
+excerpt: "Fine-tuned LLM for abstractive summarization of Vietnamese news.<br/><img src='/images/projects/summarizer.png'>"
 collection: portfolio
+date: 2025-06-01
 ---
+Conducted large-scale experiments on HPC infrastructure comparing the behaviour of 4 LLMs under
+input vs. Chain-of-Thought perturbations across 4 multi-hop QA datasets  Proposed a perturbation strength measure using an LLM-as-judge approach, achieving strong
+correlations (>0.86) with human-annotated strengths  Identified more than 50% of perturbations in existing datasets exhibiting low perturbation
+strength, revealing limitations in current perturbation-based assessment of self-consistency
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- **Code:** [github.com/ple30/your-repo](https://github.com/ple30/your-repo)
+- **Paper:** [link](https://doi.org/...)
