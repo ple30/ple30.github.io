@@ -1,11 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+My research interests span Natural Language Processing (NLP), Explainable AI (XAI), Large Language Models (LLMs), Machine Learning (ML), AI for Education, and optimisation.
+
+I hold a Bachelor of Science (major in Data Science) and a Master of Data Science from the University of Melbourne, Australia. Throughout my academic journey, I have been involved in various data science research and practical projects, focusing on Machine Learning and Natural Language Processing.
+
+In addition to my research and technical experience, I have over five years of academic teaching experience in STEM subjects, including more than one year of university-level teaching.
+
+This website serves as a portfolio of my academic background, research interests, projects, professional experience, and publications.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
