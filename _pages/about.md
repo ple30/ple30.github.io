@@ -14,6 +14,6 @@ In addition to my research and technical experience, I have over five years of a
 
 This website serves as a portfolio of my academic background, research interests, projects, professional experience, and publications.
 
-For more info
+News
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Our paper [Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength](https://doi.org/10.48550/arXiv.2609.30849) got accepted at ALTA 2026!
