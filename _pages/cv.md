@@ -16,10 +16,12 @@ Education
 
 Work experience
 ======
-* Jul, 2025 - Oct, 2025: Research Intern
-  * The University of Melbourne
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jul, 2025 - Oct, 2025: Research Intern, The University of Melbourne
+  * Conducted independent literature review and research on lava flows and barrier modelling for 2 weeks, acknowledging relevant fluid mechanics theory and equations
+  * Learned and applied HEC-RAS, a GIS-based hydraulic modelling software, adapting it from flood simulations to lava flow with barriers scenarios
+  * Managed project environments with command-line tools (pip, conda) to install and configure dependencies for HEC-RAS Python library 'rascommander'
+  * [Code: HEC-RAS for Lava with Barriers](https://github.com/ple30/rascommander-lava-barrier.git)
+  * Supervisor: [Dr. Edward Hinton](https://blogs.unimelb.edu.au/edward-hinton/#tabmain)
 
 Teaching
 ======
