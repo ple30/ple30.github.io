@@ -2,7 +2,7 @@
 title: "Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength"
 collection: publications
 category: conferences
-permalink: /publication/2025-06-08-paper-title-number-5 
+permalink: /publication/2026-11-15-enhancing-self-consistency-check 
 excerpt: ''
 date: 2026-11-15
 venue: 'Proceedings of the 24th Annual Workshop of the Australasian Language Technology Association (ALTA 2026)'
