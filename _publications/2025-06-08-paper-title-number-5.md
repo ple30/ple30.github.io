@@ -6,7 +6,7 @@ permalink: /publication/2025-06-08-paper-title-number-5
 excerpt: ''
 date: 2026-11-15
 venue: 'Proceedings of the 24th Annual Workshop of the Australasian Language Technology Association (ALTA 2026)'
-paperurl: 'https://ple30.github.io/files/Enhancing_Assessment_of_Self_Consistency_in_LLM_Explanations_using_Perturbation_Strength (1).pdf'
+paperurl: 'https://doi.org/10.48550/arXiv.2609.30849'
 citation: 'Phuong Quynh Le, Kemal Kurniawan, and Jey Han Lau. (2026). &quot;Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength.&quot; <i>Proceedings of the 24th Annual Workshop of the Australasian Language Technology Association (ALTA 2026)</i>.'
 ---
 
