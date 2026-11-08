@@ -24,13 +24,13 @@ repository               : "ple30/ple30.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Phuong Q. Le"
   pronouns         : # example: "she/her"  
   bio              : "Natural Language Processing (NLP)"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Ho Chi Minh City (Vietnam)/Melbourne (Australia)"
+  employer         : "The University of Melbourne"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "phuongqle.data@gmail.com" 
 
   # Academic websites
   academia         : # URL
