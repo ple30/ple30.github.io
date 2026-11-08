@@ -1,6 +1,6 @@
 ---
 title: "Self-Consistency in LLM-generated Explanations"
-excerpt: "Enhanced self-consistency checks in LLM Explanations using Perturbation Strength<br/><img src='/images/projects/summarizer.png'>"
+excerpt: "Enhanced self-consistency checks in LLM Explanations using Perturbation Strength<br/><img src='images/self-consistency-thumbnail.jpg'>"
 collection: portfolio
 date: 2026-11-09
 ---
