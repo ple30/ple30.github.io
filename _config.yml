@@ -27,7 +27,11 @@ author:
   name             : "Phuong Q. Le"
   pronouns         : # example: "she/her"  
   bio              : "Natural Language Processing (NLP)"
-  location         : "Ho Chi Minh City (Vietnam) \nMelbourne (Australia)"
+  location         :  Run multi-line script
+    run: |
+      echo "First line"
+      echo "Second line"
+      echo "Third line"
   employer         : "The University of Melbourne"
   uri              : # URL
   email            : "phuongqle.data@gmail.com" 
