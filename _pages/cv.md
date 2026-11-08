@@ -29,12 +29,14 @@ Teaching
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * SQL
+  * R
+* Cloud-native Technologies
+  * Docker
+  * Kubernetes
+  * Fission
 
 Publications
 ======
@@ -44,4 +46,7 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Melbourne Peer Mentor, The University of Melbourne, Feb, 2024 - Mar, 2024
+  * Volunteered and qualified to be a mentor for 18 first-year students, collaborated with 1 other mentor to organise 1-hour session weekly to help new students adapt to university
+  * Received positive feedbacks from 100% of students about efficiency and creativity of sessions
+  * Completed 2 training sessions about supporting students' mental health
