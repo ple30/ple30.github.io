@@ -52,3 +52,9 @@ Service and leadership
   * Volunteered and qualified to be a mentor for 18 first-year students, collaborated with 1 other mentor to organise 1-hour session weekly to help new students adapt to university
   * Received positive feedbacks from 100% of students about efficiency and creativity of sessions
   * Completed 2 training sessions about supporting students' mental health
+    
+Awards and Recognitions
+====== 
+* Melbourne International Undergraduate Scholarship, valued at AUD 20,000, The University of Melbourne
+* Melbourne Plus People Leadership credential
+* Academic Excellence Award for IB Mathematics Application and Interpretations
